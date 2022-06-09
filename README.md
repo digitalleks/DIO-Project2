@@ -11,7 +11,7 @@ To verify that nginx was successfully installed and is running as a service in U
    sudo systemctl status nginx
 ```
 The output of this command confirms the nginx is running: 
-[nginx status](https://user-images.githubusercontent.com/61512079/172841408-33310a93-37f0-4a87-bf49-6c77a4d05d41.PNG> "nginx status")
+![nginx status](https://user-images.githubusercontent.com/61512079/172841408-33310a93-37f0-4a87-bf49-6c77a4d05d41.PNG> "nginx status")
 
 The nginx webserver is opened for web access on the AWS EC2 instance and confirmed working as shown below:
 
